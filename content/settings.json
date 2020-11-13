@@ -1,0 +1,11 @@
+{
+  "title": "nuxt/content-theme-docs",
+  "url": "https://inwxb.sse.codesandbox.io/",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "nuxt/content",
+  "twitter": "nuxt_js",
+  "defaultBranch": "dev"
+}
